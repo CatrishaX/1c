@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.12">
+	<ConfigVersions>
+		<Metadata name="Catalog.Самокаты" id="da191ff9-8aba-4aa0-b45f-c2bce43da0f8" configVersion="89f5b720a2f81c458a93670cf909537e00000000"/>
+		<Metadata name="Catalog.ФизическиеЛица" id="69b321b9-1f5b-42cf-b976-9b6c7ce8d254" configVersion="1b46607a1abd6c4fbe584092a3e148b800000000"/>
+		<Metadata name="Configuration.Конфигурация" id="264e5aee-f9a9-40ae-b733-451b597dce8a" configVersion="3c7583dba9548842982124868ed2037500000000"/>
+		<Metadata name="Document.Аренда" id="c996f396-a741-4701-97ae-b3c181fd8b68" configVersion="1a7665c0002c8d42926691b1cf7ecf7a00000000"/>
+		<Metadata name="Document.Закупка" id="9a3ff1fc-de34-45d9-8e0a-dd9014f36f09" configVersion="a49367b45efeec42bfc5c529158f685b00000000"/>
+		<Metadata name="HTTPService.HTTPСервис1" id="bcce7560-87da-48cc-9942-53681da5627a" configVersion="29317f6c2b86dd438205f589502c143300000000">
+			<Metadata name="HTTPService.HTTPСервис1.URLTemplate.Строки" id="aa95ad8c-5439-41f6-a4cc-7ccd92f4ff6c"/>
+			<Metadata name="HTTPService.HTTPСервис1.URLTemplate.Строки.Method.GET" id="b7af1bb8-9a12-47e4-a9e2-ff703785ec0b"/>
+		</Metadata>
+		<Metadata name="HTTPService.HTTPСервис1.Module" id="bcce7560-87da-48cc-9942-53681da5627a.0" configVersion="562691cafdee524b8a3b12b0209e8fde00000000"/>
+		<Metadata name="InformationRegister.СтоимостьАренды" id="06532e54-f9c7-4216-9db5-6cfd6cf57c18" configVersion="0f2d7bd5a1685d4aa2b6fe3aea5b86f800000000">
+			<Metadata name="InformationRegister.СтоимостьАренды.Resource.Цена" id="d33bf2dd-4aa3-4ef0-a268-4df03710e2f2"/>
+			<Metadata name="InformationRegister.СтоимостьАренды.Dimension.МодельСамоката" id="fe7135cb-044b-4ba4-91ee-26d6f234f50f"/>
+		</Metadata>
+		<Metadata name="InformationRegister.СтоимостьСамоката" id="f4b124a9-4f98-4d94-9800-171503809eab" configVersion="af1f131d5c30c5488adc59c843b0623700000000">
+			<Metadata name="InformationRegister.СтоимостьСамоката.Dimension.МодельСамоката" id="1ab663c9-022b-4956-af8c-c2da946508be"/>
+			<Metadata name="InformationRegister.СтоимостьСамоката.Resource.Цена" id="920a242b-e326-4a1a-a174-b8ea22901dd9"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="a0b45106-5af2-40ed-a428-faea6491993a" configVersion="74a42b3d44fbcd45b733a4f89ec9068400000000"/>
+		<Metadata name="Role.ПолныеПрава" id="0af2738f-b204-412f-870b-f047a04672ad" configVersion="4b0c0cc4446c874fad7777372aab8be100000000"/>
+		<Metadata name="Role.ПолныеПрава.Rights" id="0af2738f-b204-412f-870b-f047a04672ad.0" configVersion="7373a37ce2ec564ab8e925ac1178651500000000"/>
+		<Metadata name="Subsystem.АрендаСамокатов" id="50afe861-6292-482c-b7b6-b7dade85ff26" configVersion="e27e4aed7b597d4aafe1f328d864618700000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
